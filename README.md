@@ -1,4 +1,3 @@
-# rravula
 <h1 align="center">Hi 👋, I'm Rishi Ravula</h1>
 <h3 align="center">A passionate full-stack developer / software engineer from Durham, NC</h3>
 
