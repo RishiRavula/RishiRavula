@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **improving my Moody iOS app for public release!**
 
-- 👨‍💻 All of my projects are available on [my github! Feel free to browse](my github! Feel free to browse)
-
 - 😎 I'm looking for positions in **software engineering, full-stack development, and cloud architecture**
 
 - 📫 How to reach me **rishi.ravula@duke.edu**
