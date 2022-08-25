@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Ravula</h1>
-<h3 align="center">A passionate full-stack developer / software engineer from Durham, NC</h3>
+<h3 align="center">A passionate and aspiring front/backend developer / cloud architect from Durham, NC</h3>
 
 - 🏫 I'm currently studying at **Duke University**
 
