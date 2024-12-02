@@ -83,6 +83,9 @@ Passionate about leveraging artificial intelligence to build scalable, innovativ
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
   <!-- Tools and Technologies -->
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://th.bing.com/th/id/OIP.sMZCkjIpLsacbrRY0H9NMgHaHa?rs=1&pid=ImgDetMain" alt="Kubernetes" width="40" height="40"/>
+  </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   </a>
@@ -110,7 +113,14 @@ Passionate about leveraging artificial intelligence to build scalable, innovativ
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/50221806/86498222-c4c12800-bd39-11ea-9709-160ad4ba63e1.png" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://www.mistral.ai/" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.imjamss6oNFwDwBjyzXoQQHaEv?rs=1&pid=ImgDetMain" alt="Mistral" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 
