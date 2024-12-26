@@ -7,6 +7,14 @@ Passionate about leveraging artificial intelligence to build scalable, innovativ
 
 ---
 
+### 🤖 What I'm Currently Working On
+- Leading a team at Capital One to implement an **AI Powered Slack** solution for a **fraction of the cost**!
+- Mentoring engineers to develop and implement **Enterprise-Friendly AI/ML Guardrails** to mitigate **bias & hallucination**.
+- Preparing for the **AWS Machine Learning Engineer Associate** exam (wish me luck!).
+- **Designing an enterprise-scale LLM course—from ingestion to deployment. Interested? Let’s chat!**
+
+---
+
 ### 🛠️ About Me
 
 - 🏫 **Education**: Graduated from **Duke University** with a degree in **Electrical & Computer Engineering and Computer Science**.
