@@ -19,7 +19,7 @@ Passionate about leveraging artificial intelligence to build scalable, innovativ
 
 - 🏫 **Education**: Graduated from **Duke University** with a degree in **Electrical & Computer Engineering and Computer Science**.
 
-- 🌱 **Currently Exploring**: Deep diving into **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **AI safety protocols**.
+- 🌱 **Currently Exploring**: Deep diving into **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **AI safety protocols** in  large-scale AI systems.
 
 - 💼 **Professional Experience**:
   - **Capital One**:
@@ -36,13 +36,11 @@ Passionate about leveraging artificial intelligence to build scalable, innovativ
     - Created a high-frequency trading alert system with low-latency routing, achieving an **85% success rate** in client-facing trades.
     - Implemented optimization algorithms and trade execution logic using **TypeScript**, **GraphQL**, and **SQL**.
 
-- 🔭 **Current Projects**:
+- 🔭 **Sold Projects**:
   - **AI Celebrity Replica**:
     - Fine-tuned **Phi-3** and **Mistral 8B** models for celebrity emulation.
     - Improved response accuracy by **40%** using **LangFuse**, **PostgreSQL**, and **Tavily**.
     - Orchestrated AWS services for **99.9% uptime**, enabling retrieval-augmented generation.
-  - **Exploring AI Ethics and Safety**:
-    - Focused on implementing ethical considerations and safety measures in deploying large-scale AI systems.
 
 - 🏆 **Achievements**:
   - **AWS Certified Solutions Architect Associate**
