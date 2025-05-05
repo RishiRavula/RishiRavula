@@ -23,7 +23,6 @@ Passionate about leveraging artificial intelligence to build scalable, innovativ
 
 - 💼 **Professional Experience**:
   - **Capital One**:
-    - Collaborated with over **50 cross-functional stakeholders**, solo-driving a **$300M+ proposal** with buy-in from executive leadership.
     - Optimized real-time ML fraud detection systems, reducing latency by **70%** using **ElastiCache/Redis**.
     - Spearheaded the integration of **vector databases** for low-latency access in distributed systems.
     - Managed LLM projects with guardrailed **LLaMa 3.1**, achieving **90% accuracy** and reducing bias by **37%**.
