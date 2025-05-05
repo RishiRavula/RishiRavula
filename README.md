@@ -26,7 +26,7 @@ Passionate about leveraging artificial intelligence to build scalable, innovativ
     - Optimized real-time ML fraud detection systems, reducing latency by **70%** using **ElastiCache/Redis**.
     - Spearheaded the integration of **vector databases** for low-latency access in distributed systems.
     - Managed LLM projects with guardrailed **LLaMa 3.1**, achieving **90% accuracy** and reducing bias by **37%**.
-    - Led a team to victory in the **Capital One Enterprise-Wide Hackathon**, developing a RAG-powered Slack/VSCode agent that boosted developer productivity by **80%** and impacted **30,000+** employees.
+    - Led a team to victory in the **Capital One Enterprise-Wide Hackathon**, developing a RAG-powered Slack/VSCode agent that will boost search productivity by **80%** and impact over **30,000+** employees.
   - **Natter**:
     - Architected high-resilience, event-driven distributed systems for **10,000+ concurrent users**.
     - Developed fine-tuned, open-source LLMs utilizing zero-shot learning and novel embedding techniques.
